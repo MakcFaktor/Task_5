@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f5f12f30-c123-43b3-9f77-907f8e858a6d" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/js/script_5.1.js" afterDir="false" />
@@ -37,7 +40,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/MakcFaktor/Task_4.git",
+    "url": "https://github.com/MakcFaktor/Task_5.git",
     "accountId": "b354ba4b-577c-4c34-bfff-44ce2eefdc06"
   }
 }]]></component>
@@ -57,7 +60,13 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Minimal/Desktop/hillel/js",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\Minimal\\AppData\\Roaming\\npm\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -81,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714121067099</updated>
-      <workItem from="1714121068754" duration="276000" />
+      <workItem from="1714121068754" duration="528000" />
     </task>
     <servers />
   </component>
